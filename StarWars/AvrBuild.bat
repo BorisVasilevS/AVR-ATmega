@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "D:\Users\lolfa\Desktop\Study\Assembler\Projects\StarWars\labels.tmp" -fI -W+ie -C V2E -o "D:\Users\lolfa\Desktop\Study\Assembler\Projects\StarWars\StarWars.hex" -d "D:\Users\lolfa\Desktop\Study\Assembler\Projects\StarWars\StarWars.obj" -e "D:\Users\lolfa\Desktop\Study\Assembler\Projects\StarWars\StarWars.eep" -m "D:\Users\lolfa\Desktop\Study\Assembler\Projects\StarWars\StarWars.map" "D:\Users\lolfa\Desktop\Study\Assembler\Projects\StarWars\StarWars.asm"
